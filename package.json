@@ -1,0 +1,17 @@
+{
+  "name": "create-nexpress-app",
+  "description": "an 'express' development monorepo template with Next.js x Express x Prisma x OpenAPI x TS to release 1app / 1month. Start with `npx create-nexpress-app`.",
+  "version": "1.0.0",
+  "bin": {
+    "create-nexpress-app": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/taniiicom/create-nexpress-app"
+  },
+  "author": "taniiicom",
+  "license": "MIT",
+  "dependencies": {
+    "degit": "^2.8.4"
+  }
+}
